@@ -1,0 +1,1 @@
+This is a sample report. It contains several sentences. The goal is to summarize the content into a short executive summary. Use a real LLM for better summaries.
